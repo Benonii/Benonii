@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Benonii.Benonii" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello👋;+The+Name's+Benoni,;Benoni+Esckinder;I'm+currently+learning+SE+at+ALX+Ethiopia" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello👋;+The+Name's+Benoni,;Benoni+Esckinder;SE+student+at+ALX+Ethiopia" />
 </h1>
 
 <h3 align="center">An software developer from Ethiopia 🇪🇹 who loves the game</h3>

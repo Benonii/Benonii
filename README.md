@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello👋;+The+Name's+Benoni,;Benoni+Esckinder;SE+student+at+ALX+Ethiopia" />
 </h1>
 
-<h3 align="center">An software developer from Ethiopia 🇪🇹 who loves the game</h3>
+<h3 align="center">A software developer who loves the game</h3>
 
 <br/>
 

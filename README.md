@@ -19,6 +19,14 @@
 ⚡ Fun fact: **Once worked on an app for 19.5 hours straight**
 
  </div>
+
+ <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Benonii/Benonii/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
  
 <div align="center"> 
   <a href="besckinder@gmail.com">

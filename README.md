@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a time on task tracker, TimeCraft**
+ 🔭 I’m currently working on **A feature rich pizza delivery app**
  
- 🌱 I’m currently learning **React, Django, Flask**
+ 🌱 I’m currently learning **Next.js**
 
-💬 Ask me about **C, Python, Nginx... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **C, Python, React, Node/Next.js,... or anything [here](https://github.com/Benonii/Benonii/issues)**
 
-⚡ Fun fact: **I love BasketBall**
+⚡ Fun fact: **Once worked on an app for 19.5 hours straight**
 
  </div>
  

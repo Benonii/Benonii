@@ -1,21 +1,21 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Benonii.Benonii" />
+# Benoni Taddesse
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello👋;+The+Name's+Benoni,;Benoni+Esckinder;Certified+Full-Stack+SWE+(ALX)" />
-</h1>
+Full-stack TypeScript engineer, about 3 years in. Founding Engineer at [Abyot](https://abyot.com), building an AI learning platform. Based in San Francisco, open to remote roles.
 
-<h3 align="center">A software developer who loves the game</h3>
+I build production web apps and the AI pipelines behind them: React, Next.js, TanStack, Hono, Postgres, Convex, Supabase, and LLM workflows with RAG, structured output and guardrails.
 
-<br/>
+### Now
+- **Abyot**: AI book-to-course pipeline that turns textbooks of up to 1,000 pages into full courses (lessons, figures, quizzes, assignments). Per-stage verifiers, auto-repair for common LLM errors, human approval gates. Turborepo monorepo shipping web, desktop (Tauri) and converter apps.
+- **[Chronicle](https://crncl.app)**: build-in-public companion that keeps builders on a posting streak, with a Telegram bot and email reminders. TanStack Start, Convex, Better Auth, grammY, Resend.
+- **Swol**: consumer fitness app built with AI. Convex.
 
-<div align="center">
- 
- 🔭 I’m currently working on **A feature rich pizza delivery app**
- 
- 🌱 I’m currently learning **Next.js**
+### Before
+- **Whales Technology**: full-stack engineer. 9+ landing pages and analytics dashboards, a production real estate app, and the back end of a gym social app for a U.S. client (TypeScript, React, Hono, Postgres).
+- **AY Automate**: shipped an AI legal app MVP in under two months, with a RAG system over local laws and court decisions (Next.js, Supabase).
+- **Spots**: AI date-spot recommendations from TikTok review videos. 564 users in 90 days.
 
-💬 Ask me about **C, Python, React, Node/Next.js,... or anything [here](https://github.com/Benonii/Benonii/issues)**
+### Stack
+TypeScript, React, Next.js, TanStack, Hono, Python, FastAPI · PostgreSQL, Drizzle, Prisma, Convex, Supabase, Redis, Cloudflare R2 · OpenAI, Gemini, RAG · Vitest, Playwright
 
-⚡ Fun fact: **Once worked on an app for 19.5 hours straight**
-
- </div>
+### Contact
+[besckinder@gmail.com](mailto:besckinder@gmail.com) · [LinkedIn](https://linkedin.com/in/benoni-esckinder-929220269)
